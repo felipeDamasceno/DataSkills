@@ -4,7 +4,7 @@ The main goal of this project was too find out what are the most requested skill
 
 This project secondary goal is to serve as a project portfolio. Below I have the steps done in this project and tools used:
 
-1. Creation of database and tables on MySQL to store the job descriptions and tools requested in the descriptions. I also manually inserted into a table the tools to be searched inside the descriptions (sql scripts and diagram files in the MySQL DB folder). 
+1. Creation of database and tables on MySQL to store the job descriptions and tools requested in the descriptions. I also manually inserted into a table the tools to be searched inside the descriptions (sql scripts and diagram file in the MySQL DB folder). 
 
 ![DB Diagram](db_diagram.png)
 
